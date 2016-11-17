@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Head.qml</file>
+        <file>Department.qml</file>
+        <file>GlobalModel.qml</file>
+        <file>picture/hour.png</file>
+        <file>Content.qml</file>
+        <file>Buttom.qml</file>
+    </qresource>
+</RCC>
